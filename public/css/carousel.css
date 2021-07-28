@@ -1,0 +1,15 @@
+body{
+  padding-top: 56px;
+}
+.carousel-item {
+  height: 100vh;
+  min-height: 100px;
+  background: no-repeat center center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.bg-dark {
+    background-color: #0a5b81!important;
+}
